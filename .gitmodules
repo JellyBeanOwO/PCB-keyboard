@@ -1,3 +1,6 @@
 [submodule "MX_Alps_hybrid.pretty"]
 	path = MX_Alps_hybrid.pretty
 	url = https://github.com/ai03-2725/MX_Alps_hybrid.pretty
+[submodule "Keebio-Parts.pretty"]
+	path = Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
